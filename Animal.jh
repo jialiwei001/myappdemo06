@@ -1,0 +1,7 @@
+entity Animal{
+  id Integer,
+  name String,
+  variety String,
+  price Long,
+  age Long
+  }

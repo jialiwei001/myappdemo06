@@ -1,0 +1,4 @@
+entity Book {
+  id Integer,
+  name String
+}
